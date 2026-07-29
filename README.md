@@ -6,10 +6,7 @@
 
 <em>I lead QA &amp; delivery for product teams and build AI-agent "skills" that do real testing work — generating senior-reviewed test cases and driving suites to an honest green. 9+ years across product &amp; enterprise: banking, insurance, media, and industrial AI.</em>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-vijayvargiya-5907a5b9)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayur.vijay.99@gmail.com)
-![Location](https://img.shields.io/badge/Indore%2C%20India-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Remote](https://img.shields.io/badge/Open%20to%20100%25%20Remote-2EA44F?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-vijayvargiya-5907a5b9) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayur.vijay.99@gmail.com) ![Location](https://img.shields.io/badge/Indore%2C%20India-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white) ![Remote](https://img.shields.io/badge/Open%20to%20100%25%20Remote-2EA44F?style=for-the-badge)
 
 </div>
 
@@ -97,22 +94,11 @@ flowchart LR
 
 ## 🧰 Tech &amp; tools
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge)
-![AI/LLM Testing](https://img.shields.io/badge/AI%2FLLM%20Testing-8A2BE2?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge) ![AI/LLM Testing](https://img.shields.io/badge/AI%2FLLM%20Testing-8A2BE2?style=for-the-badge)
 
 ## 🎓 Certifications &amp; recognition
 `ISTQB Foundation (CTFL)` &nbsp; `Agile Testing (ATA)` &nbsp; `Selenium Automation (ATA)` &nbsp; `PSM I — in progress` &nbsp; `Best Service & High-Performance awards`
