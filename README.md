@@ -19,7 +19,7 @@
 
 I designed a **complete, agent-driven QA pipeline**: one command takes a software feature from *nothing* to a **merged, CI-verified feature** — it writes senior-QA-reviewed test cases, drives a real ≥95%-green suite, runs code review, opens the PR, and handles the post-merge CI cleanup — pausing only at the two points where a human must decide.
 
-### ⭐ The flagship — Full-Flow Orchestrator
+### ⭐ [Full-Flow Orchestrator](https://github.com/mvijayvargiya/qa-full-flow-orchestrator-skill) — the flagship
 
 An **orchestrator**, not another engine: each phase either does lightweight "glue" work (ticket, live-UI read, PR) or **calls one of the specialized skills below**. Every phase reads/writes a **durable run manifest**, so a crash, a long CI wait, or a brand-new session all resume exactly where the run left off. **Two human stops only** — approve the cases, and merge.
 
@@ -62,8 +62,8 @@ Each stands on its own; the orchestrator conducts them.
 |-------|--------------|--------|
 | [**QA Test Case Generator**](https://github.com/mvijayvargiya/qa-testcase-generator-skill) | Generates **and senior-QA-reviews** cases → Zephyr Scale | 30–80 reviewed cases / feature |
 | [**Test Suite → Green**](https://github.com/mvijayvargiya/test-suite-to-green-skill) | Drives cases to an **honest ≥95%-green** pytest + Playwright suite | suite build ≈ 2 weeks → ≈ 1 day |
-| **Jenkins CI Runner** | Triggers CI headlessly; on red, pulls back **only failing traces** — not the bulk archive | fast, evidence-first triage |
-| **Slack Notifier** | The human-in-the-loop backbone: **blocking** approval gates vs. **non-blocking** FYIs | keeps a human in control, never blocks the run |
+| [**Jenkins CI Runner**](https://github.com/mvijayvargiya/qa-jenkins-ci-runner-skill) | Triggers CI headlessly; on red, pulls back **only failing traces** — not the bulk archive | fast, evidence-first triage |
+| [**Slack Notifier**](https://github.com/mvijayvargiya/qa-slack-notifier-skill) | The human-in-the-loop backbone: **blocking** approval gates vs. **non-blocking** FYIs | keeps a human in control, never blocks the run |
 
 > **Honesty gate:** the green number comes from a real run — skips can't hide failures, every verdict cites evidence (trace / DOM / API), and nothing merges without a human.
 
